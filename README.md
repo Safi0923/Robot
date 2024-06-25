@@ -7,4 +7,4 @@ Notes:-
 1. The stack_machine.py file requires the EV3 module to run. Hence, when running test_stack_machine.py, the file stack_machine.py should be renamed to something else and stack_machine_alt.py should be renamed to stack_machine.py
 2. The robot.py file contains the logic to control the motors' movements & sensors' calibration.
 3. The main.py file contains the logic for the integration of the hamming code, stack machine, and robot.py
-4. test_hamming_code.py and test_stack_machine.py are used for unit testing purposes. 
+4. The files test_hamming_code.py and test_stack_machine.py are used for unit testing purposes. 
